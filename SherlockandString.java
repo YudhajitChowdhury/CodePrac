@@ -42,7 +42,7 @@ public class Solution {
         if(max>min){
         if(max-1==min){
             
-                return "NO"; 
+                return "YES"; 
             //return "YES";
         }
         else
